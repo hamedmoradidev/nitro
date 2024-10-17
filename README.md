@@ -3,7 +3,7 @@
 Nitro theme coded by our group
 
 
-🚀 Demo
+Demo 🚀 
 
 https://hamedmoradidev.github.io/Nitro/
 
