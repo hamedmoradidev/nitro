@@ -5,7 +5,7 @@ Nitro theme coded by our group
 
 Demo 🚀 
 
-https://hamedmoradidev.github.io/Nitro/
+https://hamedmoradidev.github.io/nitro/
 
 
 ## Developers 👨‍💻
